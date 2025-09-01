@@ -5,7 +5,6 @@ A simple and elegant iOS app built with SwiftUI that generates QR codes from tex
 ## Features
 
 - **Text to QR Code**: Convert any text input into a QR code
-- **Real-time Generation**: QR codes are generated instantly as you type
 - **High Quality Output**: QR codes are scaled for optimal clarity and scanning
 - **Clean UI**: Modern SwiftUI interface with intuitive design
 - **Preview Support**: Built-in SwiftUI preview for development
